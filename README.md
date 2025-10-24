@@ -1,2 +1,4 @@
 # Creating-a-simple-page.github.io
-<img width="1180" height="890" alt="image" src="https://github.com/user-attachments/assets/4efe6842-2697-40c6-8c0c-134ae99bbfb9" />
+
+![music-note0](https://github.com/user-attachments/assets/01b9367c-3f37-43c2-9977-c4a36b8b8e28)
+![music-note1](https://github.com/user-attachments/assets/77545ac6-8f1a-40e2-9bb9-f65ae2a4e882)![music-note2](https://github.com/user-attachments/assets/24bfcfaa-643a-4fd0-b367-5199b7357c5f)
