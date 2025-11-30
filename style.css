@@ -1,6 +1,14 @@
+@font-face {
+  font-family: 'Quick Winter';
+  src: url('img/Quick Winter.ttf') format('truetype'),
+       url('img/Quick Winter.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
 body {
   margin: 0;
-  font-family: 'Inter', sans-serif;
+  font-family: 'Quick Winter', 'Inter', sans-serif;
   background: #ac7f5e;
   color: #000;
 }
